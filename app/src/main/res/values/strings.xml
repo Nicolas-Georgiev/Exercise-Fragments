@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentExample</string>
+    <string name="first_fragment">FIRST FRAGMENT</string>
+    <string name="second_fragment">SECOND FRAGMENT</string>
+    <string name="this_is_first">This is First Fragment</string>
+    <string name="this_is_second">This is Second Fragment</string>
+    <string name="fragment_a">Fragment A</string>
+    <string name="fragment_b">Fragment B</string>
+    <string name="fragment_from">%1$s (cambiado desde: %2$s)</string>
+</resources>
